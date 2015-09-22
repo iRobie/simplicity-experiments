@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Simplicity Experiments
 locale: en_US
-description: Describe your website here.
+description: Experimenting with different simplicity based changes in a forkable, version controlled manner
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://irobie.github.io/simplicity-experiments
 
 # Jekyll configuration
 
