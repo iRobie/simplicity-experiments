@@ -87,5 +87,9 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-sitemap
+  kramdown
   octopress (~> 3.0.0.rc.12)
   rouge
+
+BUNDLED WITH
+   1.10.6
